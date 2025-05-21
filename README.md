@@ -1,1 +1,7 @@
 # Meeting-scheduler
+
+In academic institutions such as MIT World Peace University (MIT-WPU), managing the scheduling and allocation of multiple meeting and conference rooms can often become a time-consuming and inefficient process. Traditionally, faculty members and students are required to contact the meeting room coordinator manually to inquire about room availability and make bookings, leading to delays, miscommunication, and administrative overhead.
+
+This project presents a web-based Meeting Room Scheduler developed using Java, JSP/Servlets, and MySQL, designed to streamline the process of booking meeting and conference rooms within the institution. The application offers two distinct user panels: one for users (faculty or students) to request room bookings, and another for administrators or coordinators to manage and approve these requests. By providing real-time booking information and approval status updates, the system enhances transparency, reduces manual intervention, and improves operational efficiency.
+
+With this solution, users can conveniently request rooms from any location, while administrators have a centralized interface to view, approve, or deny bookings. Once processed, the booking status is reflected on the user’s portal. This project ultimately contributes to a more organized and accessible room reservation process, aligned with the digital transformation goals of the university
